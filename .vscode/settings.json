@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "move.h": "c",
+        "forcecal.h": "c",
+        "test.h": "c"
+    }
+}
